@@ -1,0 +1,19 @@
+.app {
+    min-height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.borderNone {
+    border: none;
+}
+
+.navbar a{
+    color:white;
+}
+
+.homeMovie {
+    height: 100%;
+    width: 100%;
+}
